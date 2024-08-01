@@ -2,7 +2,7 @@
 
 <p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
 
-<p align=center>Made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
+<p align=center>https://figmotion-standalone-docs.vercel.app/docs/getting-started<a href="https://zeon.studio/">Zeon Studio</a></p>
 
 <p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
 
